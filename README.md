@@ -31,17 +31,21 @@ For execution of script follow these steps
 
 #step2 after hitting the run button in the terminal you will see the base url like http://127.0.0.1:5000 just open this in your browser. by default this link is selected when you open this link you will see 404 error to fetch the weather you have to append this base url with api endpoint /weather?location=city name #replace the city name with the name of the city of which you have to get the weather data add this above url with city name to base url and then you will get the weather data ex:-http://127.0.0.1:5000/weather?location=Bidar Thats it now you can see the json file NOTE:-make sure your script is running parallely in vs code
 
-p1
+![WhatsApp Image 2023-11-28 at 20 51 40_a9df9f4c](https://github.com/Raghusb7975/Backend-api/assets/139854495/4affc587-7bf0-4545-b510-3aa73ae9c9d7)
+
 
 First pic shows to open the base url displayed in the terminal after running the script in vs code
 
-p2
+![WhatsApp Image 2023-11-28 at 20 51 40_4d38ce5c](https://github.com/Raghusb7975/Backend-api/assets/139854495/e58fa138-14d3-4ac2-be92-ef104c8343db)
 
-OUTPUT p3
+
+OUTPUT 
+![WhatsApp Image 2023-11-28 at 20 51 40_5c47ba28](https://github.com/Raghusb7975/Backend-api/assets/139854495/db4768c7-a917-44d6-87cf-47007f62514e)
+
 
 after following all the steps you will get the result in json file you can also change the city name and try with other locations after getting the output copy that url in your browser and test the api with postman
 
-p4
+
 
 Releases
 No releases published
